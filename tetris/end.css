@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+body{background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+background-repeat: no-repeat;
+background-size: 100vw 100vh;
+font-family:'Poor Story', cursive ;
+font-size: 3rem;
+color: purple;
+}
+.sc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 5%;
+}
+button{
+    margin-top: 2%;
+    width: 20vw;
+    height: 10vh;
+  }
+.sc{
+    height: 250px;
+    width: 100vw;
+  }
+  .sd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100px;
+    width: 100vw;
+
+  }
